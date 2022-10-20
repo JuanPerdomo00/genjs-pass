@@ -4,7 +4,7 @@
   "description": "Gernerador de contrasenas javascript",
   "main": "index.js",
   "scripts": {
-    "install": "sudo npm install -g"
+    "ins": "sudo npm install -g"
   },
   "repository": {
     "type": "git",
