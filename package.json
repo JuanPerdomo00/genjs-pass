@@ -1,0 +1,28 @@
+{
+  "name": "genjs-pass",
+  "version": "0.0.1",
+  "description": "Gernerador de contrasenas javascript",
+  "main": "index.js",
+  "scripts": {
+    "install": "sudo npm install -g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPerdomo00/genjs-pass.git"
+  },
+  "keywords": [
+    "javascript",
+    "passwords",
+    "gen-passwords"
+  ],
+  "author": "Jakepys <j4kyjak3@protonmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JuanPerdomo00/genjs-pass/issues"
+  },
+  "homepage": "https://github.com/JuanPerdomo00/genjs-pass#readme",
+  "bin": {
+    "genpass": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
