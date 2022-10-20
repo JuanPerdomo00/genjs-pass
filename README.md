@@ -4,7 +4,7 @@ Generador de contrasenas JS
 ## Instalacion
 ```sh
 # run the command in your terminal
-npm run install
+npm run ins
 
 #execute the bin
 genpass
